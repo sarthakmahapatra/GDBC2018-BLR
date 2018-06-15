@@ -22,13 +22,13 @@
 ### Form your group with a Senior, Junior, Newbie combination for good knowledge sharing experience
 | Group Name|User Name|Password|
 |---|---|---|
-|GDBC2018-Bengaluru-Team01|G-Bengaluru-user001@gdbc2018.onmicrosoft.com||
+|GDBC2018-Bengaluru-Team01|G-XpiritChennai-user001@gdbc2018.onmicrosoft.com||
 ||G-XpiritChennai-user002@gdbc2018.onmicrosoft.com||
 ||G-XpiritChennai-user003@gdbc2018.onmicrosoft.com||
 ||G-XpiritChennai-user004@gdbc2018.onmicrosoft.com||
 ||G-XpiritChennai-user005@gdbc2018.onmicrosoft.com||
 ||||
-|GDBC2018-XpiritChennai-Team02|G-Bengaluru-user006@gdbc2018.onmicrosoft.com||
+|GDBC2018-XpiritChennai-Team02|G-XpiritChennai-user006@gdbc2018.onmicrosoft.com||
 ||G-XpiritChennai-user007@gdbc2018.onmicrosoft.com||
 ||G-XpiritChennai-user008@gdbc2018.onmicrosoft.com||
 ||G-XpiritChennai-user009@gdbc2018.onmicrosoft.com||

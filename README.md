@@ -1,7 +1,7 @@
 # Welcome to Global DevOps BootCamp 2018 - Chennai 
 
 ## First thing first 
-### Please register your presence at https://goo.gl/forms/7iDjGEkKQAZTnmWk2
+### Please register your presence at https://goo.gl/forms/ZsDC453yqbhDRFmv2
 
 ************************************************************************************
 ## Tweet about the event 

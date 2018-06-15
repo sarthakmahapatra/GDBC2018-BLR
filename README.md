@@ -1,4 +1,4 @@
-# Welcome to Global DevOps BootCamp 2018 - Bengaluru 
+# Welcome to Global DevOps BootCamp 2018 - Chennai 
 
 ## First thing first 
 ### Please register your presence at https://goo.gl/forms/7iDjGEkKQAZTnmWk2
@@ -13,7 +13,7 @@
 ## Important URLs
   VSTS – https://globaldevopsbootcamp-asiaaus.visualstudio.com/
   
-  Claim VM - https://globaldevopsbootcamp.com/vminfoes (one between 2 so pair up!)
+  Claim VM - https://globaldevopsbootcamp.com/vminfoes?VenueName=Global%20DevOps%20Bootcamp%202018%20%40%20Xpirit%20Chennai (one between 2 so pair up!)
   
   Scoreboard - http://gdbchighscore2018.azurewebsites.net/
   
@@ -23,27 +23,25 @@
 | Group Name|User Name|Password|
 |---|---|---|
 |GDBC2018-Bengaluru-Team01|G-Bengaluru-user001@gdbc2018.onmicrosoft.com||
-||G-Bengaluru-user002@gdbc2018.onmicrosoft.com||
-||G-Bengaluru-user003@gdbc2018.onmicrosoft.com||
-||G-Bengaluru-user004@gdbc2018.onmicrosoft.com||
-||G-Bengaluru-user005@gdbc2018.onmicrosoft.com||
+||G-XpiritChennai-user002@gdbc2018.onmicrosoft.com||
+||G-XpiritChennai-user003@gdbc2018.onmicrosoft.com||
+||G-XpiritChennai-user004@gdbc2018.onmicrosoft.com||
+||G-XpiritChennai-user005@gdbc2018.onmicrosoft.com||
 ||||
-|GDBC2018-Bengaluru-Team02|G-Bengaluru-user006@gdbc2018.onmicrosoft.com||
-||G-Bengaluru-user007@gdbc2018.onmicrosoft.com||
-||G-Bengaluru-user008@gdbc2018.onmicrosoft.com||
-||G-Bengaluru-user009@gdbc2018.onmicrosoft.com||
-||G-Bengaluru-user010@gdbc2018.onmicrosoft.com||
+|GDBC2018-XpiritChennai-Team02|G-Bengaluru-user006@gdbc2018.onmicrosoft.com||
+||G-XpiritChennai-user007@gdbc2018.onmicrosoft.com||
+||G-XpiritChennai-user008@gdbc2018.onmicrosoft.com||
+||G-XpiritChennai-user009@gdbc2018.onmicrosoft.com||
+||G-XpiritChennai-user010@gdbc2018.onmicrosoft.com||
 
 
 So on ....
 NOTE: PLEASE USE YOUR ASSIGNED PROJECTS ONLY, YOU CAN SEE OTHER TEAM PROJECTS BUT REFRAIN FROM USING THEM
-You can change your team name, but it should follow the standard as **GDBC2018-Bengaluru**-CHANGETHIS
+You can change your team name, but it should follow the standard as **GDBC2018-XpiritChennai**-CHANGETHIS
 ************************************************************************************
 
-## Bangalore Venue Azure Subscription
-### ID: e07c832d-725e-4214-8296-6cfa867075b0
-
-
+## Chennai Venue Azure Subscription
+### ID: 55899b4b-a521-4a2c-9226-f6e2ed09b71a
 
 ************************************************************************************
 ## Your feedback is important to us

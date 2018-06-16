@@ -18,6 +18,8 @@
   Scoreboard - http://gdbchighscore2018.azurewebsites.net/
   
   Tweet wall - https://walls.io/c64wx
+  
+  Learn DevOps - aka.ms/devops
 
 ### Form your group with a Senior, Junior, Newbie combination for good knowledge sharing experience
 | Group Name|User Name|Password|
